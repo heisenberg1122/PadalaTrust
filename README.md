@@ -1,5 +1,13 @@
 # Stellar Notes DApp
 
+##CONTRACT ID:
+CAROPT65HVFZAVZZLADL7NSQZKWZ4ODLHW7LLK4IZOP6A3GJA6G3DQET
+
+##CONTRACT LINK:
+https://stellar.expert/explorer/testnet/contract/CAROPT65HVFZAVZZLADL7NSQZKWZ4ODLHW7LLK4IZOP6A3GJA6G3DQET
+
+![PICTURE](Stellar.png)
+
 **Stellar Notes DApp** - Blockchain-Based Decentralized Note-Taking System
 
 ## Project Description
